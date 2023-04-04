@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+}
+
+.navbar{
+    height: 6rem;
+    background: beige;
+    color: rgb(222, 10, 10);
+    text-align: center;
+}
+
+.logo{
+    font-size: 4rem;
+}
+
+.hero{
+    color: white;
+    background-color: blue;
+    min-height: calc(100vh - 6rem);
+    text-align: center;
+}
+
+span{
+    color: rgb(243, 119, 133);
+    font-size: 1.5rem;
+}
+
+button{
+    background-color: white;
+    color: red;
+}
